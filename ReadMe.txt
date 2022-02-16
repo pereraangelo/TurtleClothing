@@ -1,4 +1,4 @@
-This is a ecommerce shopping cart web appication.
+This is a React based ecommerce shopping cart web appication.
 
 Please follow below steps to run the code.
 
